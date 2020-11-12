@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Paola Sarmiento 👋 </h1> <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<h1 align="center">Hey there! I'm Paola Sarmiento <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> </h1> 
 
 
 <h3 align="center">Front end developer and member of Laboratoria</h3>
