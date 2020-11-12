@@ -1,8 +1,10 @@
 <h1 align="center">Hey there! I'm Paola Sarmiento <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> </h1> 
 
 
-<h3 align="center">Front end developer and member of Laboratoria</h3>
-<h4 align="center">focused on learning and using tools for software construction.</h4>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+<h3 align="center">Front end developer and member of Laboratoria focused on learning and using tools for software construction.</h3>
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/paosarmiento)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paola-sarmiento/)
