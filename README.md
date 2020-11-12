@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I am Paola Sarmiento, front end developer and member of Laboratoria focused on learning and using tools for software construction.
+
+### Hola 👋 Soy Paola Sarmiento desarrolladora, front end y miembro de Laboratoria enfocada en el aprendizaje y uso de herramientas para construcción de software. 
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/paosarmiento)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paola-sarmiento/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolasarmiento270218@gmail.com)
+
 <!--
 **paosarmiento/paosarmiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
