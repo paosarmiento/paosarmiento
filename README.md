@@ -1,8 +1,9 @@
-<h1 align="center">Hey there! I'm Paola Sarmiento <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> </h1> 
+<h1 align="center">Hey there! I'm Paola Sarmiento 🖖 </h1> 
 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
+<br/>
 <h3 align="center">Front end developer and member of Laboratoria focused on learning and using tools for software construction.</h3>
 
 
